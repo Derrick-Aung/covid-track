@@ -11,7 +11,7 @@
 ## Features
 
 -   Receive latest statistics on the novel coronavirus
-    s
+    
 -   Get country-specific data presented in easily comprehensible charts
 
 ---
