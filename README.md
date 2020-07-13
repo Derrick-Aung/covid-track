@@ -4,7 +4,7 @@
 
 > A clean and simple web app that displays COVID-19 statistics utilizing The Mathdroid API from John Hopkins University
 
-![](../public/demo.JPG)
+![](./public/demo.JPG)
 
 ---
 
