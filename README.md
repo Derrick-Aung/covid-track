@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-## **<a href="#" target="_blank">Click here to demo</a>**
+## **<a href="https://derrick-aung.github.io/covid-track/" target="_blank">Click here to demo</a>**
 
 > A clean and simple web app that displays COVID-19 statistics utilizing The Mathdroid API from John Hopkins University
 
